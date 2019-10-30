@@ -1,0 +1,5 @@
+/target
+/**/target
+/.idea
+/project/target
+/kafka_2.*
